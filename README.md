@@ -1,8 +1,9 @@
 # ev-charging-analytics
 Data analytics project on EV charging station growth using SQL, Python, and Tableau.
-# ⚡ EV Charging Station Analytics
 
-A data analytics project exploring the growth of EV charging stations across the United States using:
+# ⚡ ev-charging-analytics
+
+## Analyzing Growth Trends of EV Charging Stations Across the U.S. Using Python and Tableau
 
 - **Python (Pandas, Matplotlib)**
 - **Tableau** for dashboarding
