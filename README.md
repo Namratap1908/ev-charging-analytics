@@ -25,8 +25,9 @@ This app provides an interactive dashboard to explore EV charging station trends
 
 - 📊 Station count by state
 - 🔍 Raw data preview
-
+  
 📄 [View Streamlit Dashboard Preview (PDF)](streamlit_dashboard_preview.pdf)
+
 
 
 ---
