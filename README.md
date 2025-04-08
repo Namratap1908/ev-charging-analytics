@@ -50,7 +50,7 @@ An interactive **Streamlit dashboard** built with Python and pandas:
    ![Access Type Pie](https://github.com/Namratap1908/ev-charging-analytics/blob/main/chart_access_type_pie.png.png)
 
  **EV Network Chart**
-   ![EV Networks](https://raw.githubusercontent.com/Namratap1908/ev-charging-analytics/main/chart_ev_networks.png)
+   ![EV Networks](https://github.com/Namratap1908/ev-charging-analytics/blob/main/chart_ev_networks.png.png)
 
  **Tableau Dashboard Preview**
    ![Tableau Dashboard](https://raw.githubusercontent.com/Namratap1908/ev-charging-analytics/main/chart_tableau_dashboard_preview.png)
