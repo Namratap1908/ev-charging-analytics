@@ -13,17 +13,19 @@ A data analytics project exploring the growth of EV charging stations across the
 ## 📊 Visualizations
 
 ### 🔟 Top 10 States with Most EV Stations  
-![Top 10 States](data/sql/python/dashboard/top_states_bar_chart.jpeg)
+![Top 10 States](data/sql/python/dashboard/images/chart_top_states.png.png)
 
-### 🧩 Public vs Private Access Types  
-![Access Type Pie Chart](data/sql/python/dashboard/access_type_pie_chart.jpeg)
+### ☘️ Public vs Private Access Types  
+![Access Type Pie Chart](data/sql/python/dashboard/images/chart_access_type_pie.png.png)
 
-### 🏢 EV Network Usage Distribution  
-![Network Usage Horizontal Bar](data/sql/python/dashboard/network_usage_bar_chart.jpeg)
+### 🏙️ EV Network Usage Distribution  
+![Network Usage Horizontal Bar](data/sql/python/dashboard/images/chart_ev_networks.png.png)
 
-### 📈 Tableau Dashboard Preview  
-![Tableau Dashboard](data/sql/python/dashboard/tableau_dashboard_preview.jpeg)
+### 📊 Tableau Dashboard Preview  
+![Tableau Dashboard](data/sql/python/dashboard/images/chart_tableau_dashboard_preview.png.png)
 
+## 📊 Map View 
+![Map Preview](data/sql/python/dashboard/images/chart_ev_map_tableau.png.png)
 
 ---
 
