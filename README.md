@@ -33,8 +33,6 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 
 📥 [View Streamlit Dashboard Preview (PDF)](streamlit_dashboard_preview.pdf)
 
-![Streamlit Dashboard Preview](streamlit_dashboard_preview.pdf)
-
 ---
 
 ## 📉 Tableau Dashboard
