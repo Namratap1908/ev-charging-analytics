@@ -22,6 +22,9 @@ This project explores the distribution and trends of Electric Vehicle (EV) charg
 ## 🌐 Streamlit App *(Coming Soon!)*
 An interactive web dashboard will be deployed using **Streamlit** to allow real-time filtering and trend analysis by state, charger type, and more.
 
+📄 [View Streamlit Dashboard PDF Preview](streamlit_dashboard_preview.pdf)
+
+
 ---
 
 ## 📉 Tableau Dashboard
