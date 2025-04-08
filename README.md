@@ -10,12 +10,16 @@ EV_Charging_Analytics/ ├── app.py # Streamlit app script ├── ev_stat
 
 ---
 
+
+---
+
 ## 📊 Data Analysis (Python)
+
 - Performed data cleaning and exploration using **pandas**
 - Visualized trends using **Plotly** and **Matplotlib**
 - Exported results to an interactive HTML notebook
 
-▶️ [View Python HTML Report](ev_dashboard_python.html)
+▶️ [View Python HTML Report](./ev_dashboard_python.html)
 
 ---
 
@@ -27,22 +31,22 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 - Pie chart: Access type breakdown
 - Horizontal bar chart: Top charging networks
 
-📥 [View Streamlit Dashboard Preview (PDF)](streamlit_dashboard_preview.pdf)
-(chart_access_type_pie.png.png)
-(chart_ev_map_tableau.png.png)
-(chart_ev_networks.png.png)
+📥 [View Streamlit Dashboard Preview (PDF)](./streamlit_dashboard_preview.pdf)
+
+![Streamlit Dashboard Preview](./streamlit_dashboard_preview.pdf)
 
 ---
 
 ## 📉 Tableau Dashboard
 
 *Interactive state-wise view of EV station distribution across the U.S.*
+
 📊 [View Dashboard on Tableau Public](https://public.tableau.com/views/EV_Charging_Stations_Analysis/StatewiseEVChargingOverview)  
 
 ---
 
 📷 Dashboard Preview:  
-![Tableau Dashboard Preview](app.py)
+![Tableau Dashboard Preview](./chart_tableau_dashboard_preview.png)
 
 ---
 
@@ -51,9 +55,7 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 - Add filters for charger types (Level 1, Level 2, DC Fast)
 - Correlate EV station density with population data
 
-  
 ---
-
 
 ## 🛠️ Tools & Technologies
 - **Python**: pandas, plotly, matplotlib
@@ -64,8 +66,8 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 
 ---
 
-
 ## 👤 Author  
 **Namrata Patil**  
 📍 MS in Business Analytics | Passionate about data, sustainability & innovation  
 🔗 [LinkedIn](https://www.linkedin.com/in/patil1namrata)
+
