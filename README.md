@@ -1,50 +1,53 @@
-# ev-charging-analytics
-Data analytics project on EV charging station growth using SQL, Python, and Tableau.
+# ⚡ EV Charging Stations Analytics
 
-# ⚡ ev-charging-analytics
-
-## Analyzing Growth Trends of EV Charging Stations Across the U.S. Using Python and Tableau
-
-- **Python (Pandas, Matplotlib)**
-- **Tableau** for dashboarding
-- **GitHub** for collaboration and hosting
+This project explores the distribution and trends of Electric Vehicle (EV) charging stations across the U.S. using Python, Streamlit, and Tableau. It aims to support data-driven decisions for sustainability and infrastructure planning.
 
 ---
 
-## 📊 Visualizations
-
-### 🔟 Top 10 States with Most EV Stations  
-![Top 10 States](data/sql/python/dashboard/images/chart_top_states.png.png)
-
-### ☘️ Public vs Private Access Types  
-![Access Type Pie Chart](data/sql/python/dashboard/images/chart_access_type_pie.png.png)
-
-### 🏙️ EV Network Usage Distribution  
-![Network Usage Horizontal Bar](data/sql/python/dashboard/images/chart_ev_networks.png.png)
-
-### 📊 Tableau Dashboard Preview  
-![Tableau Dashboard](data/sql/python/dashboard/images/chart_tableau_dashboard_preview.png.png)
-
-## 📊 Map View 
-![Map Preview](data/sql/python/dashboard/images/chart_ev_map_tableau.png.png)
+## 📁 Dataset
+- **Source:** Cleaned EV station metadata (2024)
+- **Fields:** State, Station Name, Charging Types, Coordinates, etc.
 
 ---
 
-## 📁 Files & Structure
+## 📊 Data Analysis (Python)
+- Performed data cleaning and exploration using **pandas**
+- Visualized trends using **Plotly** and **Matplotlib**
+- Exported results to an interactive HTML notebook
 
-
----
-
-## 📌 Key Takeaways
-
-- Extracted trends from public datasets using Python
-- Cleaned, visualized, and exported data for Tableau dashboards
-- Demonstrated storytelling with data visualizations
+▶️ [View Python HTML Report](./Untitled.html)
 
 ---
 
-## 🔗 Author
+## 🌐 Streamlit App *(Coming Soon!)*
+An interactive web dashboard will be deployed using **Streamlit** to allow real-time filtering and trend analysis by state, charger type, and more.
 
+---
+
+## 📉 Tableau Dashboard
+
+📊 [View Dashboard on Tableau Public](https://public.tableau.com/views/EV_Charging_Stations_Analysis/StatewiseEVChargingOverview)  
+*Interactive state-wise view of EV station distribution across the U.S.*
+
+---
+
+## 🚀 Future Work
+- Launch and host Streamlit dashboard online
+- Add filters for charger types (Level 1, Level 2, DC Fast)
+- Correlate EV station density with population data
+
+---
+
+## 🛠️ Tools & Technologies
+- **Python:** pandas, plotly, matplotlib
+- **Streamlit:** interactive dashboard (upcoming)
+- **Tableau Public:** visual storytelling and drill-down
+- **Jupyter Notebook + HTML export**
+- **GitHub:** version control and collaboration
+
+---
+
+## 👤 Author  
 **Namrata Patil**  
-[LinkedIn](https://www.linkedin.com/in/patil1namrata)  
-📍 Buffalo, NY
+📍 MS in Business Analytics | Passionate about data, sustainability & innovation  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(replace with your actual profile)*
