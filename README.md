@@ -19,7 +19,7 @@ EV_Charging_Analytics/ ├── app.py # Streamlit app script ├── ev_stat
 - Visualized trends using **Plotly** and **Matplotlib**
 - Exported results to an interactive HTML notebook
 
-▶️ [View Python HTML Report](ev-charging-analytics/blob/main/ev_dashboard_python.html)
+▶️ [View Python HTML Report](https://github.com/Namratap1908/ev-charging-analytics/blob/main/ev_dashboard_python.html)
 
 ---
 
