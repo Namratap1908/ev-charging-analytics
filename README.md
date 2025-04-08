@@ -10,28 +10,25 @@ EV_Charging_Analytics/ ├── app.py # Streamlit app script ├── ev_stat
 
 ---
 
-
----
-
 ## 📊 Data Analysis (Python)
 
-- Performed data cleaning and exploration using **pandas**
-- Visualized trends using **Plotly** and **Matplotlib**
-- Exported results to an interactive HTML notebook
+- **Performed data cleaning and exploration** using `pandas`.
+- **Visualized trends** using `Plotly` and `Matplotlib`.
+- **Exported results** to an interactive HTML notebook.
 
-▶️ [View Python HTML Report](./ev_dashboard_python.html)
+▶️ [View Python HTML Report](ev_dashboard_python.html)
 
 ---
 
 ## 🐍 Python Dashboard (Streamlit)
 
-An interactive **Streamlit dashboard** built with Python and pandas:
+An interactive **Streamlit dashboard** built with Python and `pandas`:
 - View raw data
 - Bar chart: Number of stations by state
 - Pie chart: Access type breakdown
 - Horizontal bar chart: Top charging networks
 
-📥 [View Streamlit App](./app.py)
+📥 [View Streamlit Dashboard Preview (PDF)](./streamlit_dashboard_preview.pdf)
 
 ---
 
@@ -39,12 +36,13 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 
 *Interactive state-wise view of EV station distribution across the U.S.*
 
-📊 [View Dashboard on Tableau Public](https://public.tableau.com/views/EV_Charging_Stations_Analysis/StatewiseEVChargingOverview)  
+📊 [View Dashboard on Tableau Public](https://public.tableau.com/views/EV_Charging_Stations_Analysis/StatewiseEVChargingOverview)
 
 ---
 
-📷 Dashboard Preview:  
-![Tableau Dashboard Preview](./chart_tableau_dashboard_preview.png)
+## 📷 Dashboard Preview
+
+![Tableau Dashboard Preview](chart_tableau_dashboard_preview.png)
 
 ---
 
