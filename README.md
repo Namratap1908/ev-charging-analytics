@@ -31,7 +31,7 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 - Pie chart: Access type breakdown
 - Horizontal bar chart: Top charging networks
 
-📥 [View Streamlit Dashboard Preview (PDF)](https://github.com/Namratap1908/ev-charging-analytics/blob/main/streamlit_dashboard_preview.pdf)
+📥 [View Streamlit Dashboard Preview (PDF)](https://github.com/Namratap1908/ev-charging-analytics/blob/main/EV_Charging_Stations_Analysis.twb)
 
 ---
 
