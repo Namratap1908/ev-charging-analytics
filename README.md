@@ -42,7 +42,7 @@ An interactive **Streamlit dashboard** built with Python and `pandas`:
 
 ## 📷 Dashboard Preview
 
-![Tableau Dashboard Preview](chart_tableau_dashboard_preview.png)
+![Tableau Dashboard Preview](chart_tableau_dashboard_preview.png.png)
 
 ---
 
