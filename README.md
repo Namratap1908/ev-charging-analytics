@@ -28,6 +28,8 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 - Horizontal bar chart: Top charging networks
 
 📥 [View Streamlit Dashboard Preview (PDF)](streamlit_dashboard_preview.pdf)
+(chart_access_type_pie.png.png)
+()
 
 ---
 
