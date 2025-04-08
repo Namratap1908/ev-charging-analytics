@@ -19,10 +19,14 @@ This project explores the distribution and trends of Electric Vehicle (EV) charg
 
 ---
 
-## 🌐 Streamlit App *(Coming Soon!)*
-An interactive web dashboard will be deployed using **Streamlit** to allow real-time filtering and trend analysis by state, charger type, and more.
+## 🌐 Streamlit App *(Local Preview)*
 
-📄 [View Streamlit Dashboard PDF Preview](streamlit_dashboard_preview.pdf)
+This app provides an interactive dashboard to explore EV charging station trends across U.S. states, including:
+
+- 📊 Station count by state
+- 🔍 Raw data preview
+
+📄 [View Streamlit Dashboard Preview (PDF)](streamlit_dashboard_preview.pdf)
 
 
 ---
