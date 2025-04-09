@@ -59,7 +59,7 @@ An interactive **Streamlit dashboard** built with Python and pandas:
 
 *Interactive state-wise view of EV station distribution across the U.S.*
 
-📊 [Download Tableau Workbook](https://github.com/Namratap1908/ev-charging-analytics/blob/main/EV_Charging_Stations_Analysis.twb)
+📊 [Download Tableau Workbook](https://github.com/Namratap1908/ev-charging-analytics/blob/main/EV_Charging_Stations_Analysis_v2024.twbx)
 
 ---
 
