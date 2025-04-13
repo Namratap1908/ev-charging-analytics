@@ -1,6 +1,6 @@
 👤 Author
 Namrata Patil
-📍 MS in Business Analytics | Passionate about data, sustainability & innovation
+📍 Insightful Business Analyst | Passionate about data, sustainability & innovation
 🔗 LinkedIn - (https://www.linkedin.com/in/patil1namrata/)
 
 ---
