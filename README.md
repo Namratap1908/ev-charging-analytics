@@ -1,18 +1,16 @@
-👤 Author
-Namrata Patil
-📍 Insightful Business Analyst | Passionate about data, sustainability & innovation
-🔗 LinkedIn - (https://www.linkedin.com/in/patil1namrata/)
+
+  
 
 ---
 
 <h1 align="center">Hello, I’m Namrata Patil 👋</h1>
 
-- 🎓 **Graduate** in **Business Analytics**, with expertise in **data analysis**, **business intelligence**, and **data visualization**.
+- 🎓 **Graduate** in **Business Analytics**, Insightful Business Analyst | Passionate about data, sustainability & innovation**.
 - 💼 Experienced **Data Analyst** leveraging **Python**, **SQL**, **Tableau**, and **Power BI** to uncover insights and drive strategic decisions.
 - 🔍 Passionate about **Data-driven solutions**, optimizing **Business processes**, and transforming complex datasets into actionable insights.
 - 🌱 Focused on **Predictive analytics**, **Business intelligence**, and **Sustainability** in data.
 - 📈 Currently working on real-world projects to bridge the gap between **Data** and **Business outcomes**, specifically in the **clean energy** and **sustainable technology** sectors.
-- 📍 **Location**: Buffalo, NY | 📧 **Contact me**: [Namrata's Email](mailto:Namratap1908@gmail.com)
+- 📍 **Location**: Buffalo, NY | 📧 **Contact me**: [Namrata's Email](mailto:Namratap1908@gmail.com) | LinkedIn - (https://www.linkedin.com/in/patil1namrata/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/namratap1908" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
