@@ -1,3 +1,25 @@
+👤 Author
+Namrata Patil
+📍 MS in Business Analytics | Passionate about data, sustainability & innovation
+🔗 LinkedIn - (https://www.linkedin.com/in/patil1namrata/)
+
+---
+
+<h1 align="center">Hello, I’m Namrata Patil 👋</h1>
+
+- 🎓 **Graduate** in **Business Analytics**, with expertise in **data analysis**, **business intelligence**, and **data visualization**.
+- 💼 Experienced **Data Analyst** leveraging **Python**, **SQL**, **Tableau**, and **Power BI** to uncover insights and drive strategic decisions.
+- 🔍 Passionate about **Data-driven solutions**, optimizing **Business processes**, and transforming complex datasets into actionable insights.
+- 🌱 Focused on **Predictive analytics**, **Business intelligence**, and **Sustainability** in data.
+- 📈 Currently working on real-world projects to bridge the gap between **Data** and **Business outcomes**, specifically in the **clean energy** and **sustainable technology** sectors.
+- 📍 **Location**: Buffalo, NY | 📧 **Contact me**: [Namrata's Email](mailto:Namratap1908@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/namratap1908" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+</p>
+
+---
+
 # ⚡ EV Charging Stations Analytics
 
 This data analytics project explores the growth and distribution of electric vehicle (EV) charging stations across the United States using public data. It combines Python-based analysis, interactive Tableau dashboards, and web-based Streamlit applications to uncover insights for sustainable transportation planning.
@@ -139,8 +161,3 @@ Jupyter Notebook + HTML export
 GitHub: version control and collaboration
 
 ---
-
-👤 Author
-Namrata Patil
-📍 MS in Business Analytics | Passionate about data, sustainability & innovation
-🔗 LinkedIn - (https://www.linkedin.com/in/patil1namrata/)
