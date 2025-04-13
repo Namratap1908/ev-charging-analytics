@@ -1,8 +1,3 @@
-
-  
-
----
-
 <h1 align="center">Hello, I’m Namrata Patil 👋</h1>
 
 - 🎓 **Graduate** in **Business Analytics**, Insightful Business Analyst | Passionate about data, sustainability & innovation**.
